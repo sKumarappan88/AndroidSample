@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         //Initialize the toolbox to the activity
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
 
-        //Adding toolbox to the activity
+        //Adding toolbox to the activity..
         setSupportActionBar(toolbar);
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
